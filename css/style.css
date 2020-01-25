@@ -1,0 +1,12 @@
+@font-face {
+    font-family: Montserrat;
+    src: url('../fonts/Montserrat-Regular.ttf');
+}
+
+body, h1, h2, h3, p, ul{
+    font-family: 'Montserrat', sans-serif;
+}
+
+footer{
+    background-color:#343A40;
+}
